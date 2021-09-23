@@ -1,0 +1,113 @@
+#body {
+    font-family: TimesNewRoman, "Times New Roman"
+}
+
+#navbar {
+    background: black;
+    height: 20%;
+    white-space: nowrap;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+.logo {
+    text-align: left;
+}
+
+#griot {
+    color: white;
+    font-size: 23px;
+    text-decoration: solid;
+    text-align: center;
+    width: 100%;
+    margin-left: 60px;
+}
+
+#navItems {
+    color: white;
+    font-size: 12px;
+    margin-right: 60px;
+    text-decoration: none;
+    white-space: nowrap;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.TopImg {
+    text-align: center;
+    /* font-size: 100px; */
+}
+
+#BackgroundImg {
+    width: 100%;
+}
+
+#TopImg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 100px;
+    color: white;
+    transform: translate(-50%, -50%);
+}
+
+
+p.dotted {
+    border-style: solid;
+    color: black;
+    text-align: left;
+    size: 13ch;
+    background: rgb(247, 247, 247);
+    border-color: rgb(171, 168, 168);
+    border-width: 1px;
+    margin-top: 60px;
+    padding-left: 30px;
+}
+
+#MovieImg {
+    width: 150px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+#ReadDiv {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: end;
+}
+
+#ButtonItems {
+    display: table-cell;
+    color: white;
+    background-color: rgb(242, 184, 0);
+}
+
+#FooterItems {
+    font-size: 12px;
+    text-decoration: solid;
+}
+
+#foot {
+    background-color: black;
+    padding: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+#MapImg {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+li {
+    margin-bottom: 20px;
+}
