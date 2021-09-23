@@ -110,4 +110,10 @@ ul {
 
 li {
     margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+span.material-icons{
+    color: orange;
 }
